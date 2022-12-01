@@ -304,3 +304,403 @@
 2022-11-15 22:03:25,416 [main] INFO logger_file - User update Name and Phone
 2022-11-15 22:03:25,543 [main] INFO logger_file - User click on Update button
 2022-11-15 22:03:25,584 [main] INFO logger_file - user profile information should be updated
+2022-11-16 09:41:36,186 [main] INFO logger_file - React App is equal to React App
+2022-11-16 09:41:36,629 [main] INFO logger_file - user clicked on Sign In option
+2022-11-16 09:41:37,048 [main] INFO logger_file - user entered email noorullah@tekschool.us and password Tek@56789
+2022-11-16 09:41:37,175 [main] INFO logger_file - user clicked on login button
+2022-11-18 12:30:33,919 [main] INFO logger_file - React App is equal to React App
+2022-11-18 12:30:34,331 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 12:30:34,745 [main] INFO logger_file - user entered email noorullah@tekschool.us and password Tek@56789
+2022-11-18 12:30:34,882 [main] INFO logger_file - user clicked on login button
+2022-11-18 12:31:28,580 [main] INFO logger_file - React App is equal to React App
+2022-11-18 12:31:28,954 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 12:31:29,336 [main] INFO logger_file - user entered email noorullah@tekschool.us and password Tek@12345
+2022-11-18 12:31:29,458 [main] INFO logger_file - user clicked on login button
+2022-11-18 12:33:33,370 [main] INFO logger_file - React App is equal to React App
+2022-11-18 12:33:33,874 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 12:33:34,294 [main] INFO logger_file - user entered email noorullah@tekschool.us and password Tek@12345
+2022-11-18 12:33:34,416 [main] INFO logger_file - user clicked on login button
+2022-11-18 12:36:14,195 [main] INFO logger_file - React App is equal to React App
+2022-11-18 12:36:14,629 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 12:36:14,766 [main] INFO logger_file - user clicked on Create New Account button
+2022-11-18 12:36:20,461 [main] INFO logger_file - user entered required information into sign up form
+2022-11-18 12:36:25,592 [main] INFO logger_file - user clicked on Sign up Button
+2022-11-18 12:37:07,271 [main] INFO logger_file - React App is equal to React App
+2022-11-18 12:37:07,720 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 12:37:07,858 [main] INFO logger_file - user clicked on Create New Account button
+2022-11-18 12:37:13,649 [main] INFO logger_file - user entered required information into sign up form
+2022-11-18 12:37:18,773 [main] INFO logger_file - user clicked on Sign up Button
+2022-11-18 12:38:17,713 [main] INFO logger_file - React App is equal to React App
+2022-11-18 12:38:18,085 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 12:38:18,228 [main] INFO logger_file - user clicked on Create New Account button
+2022-11-18 12:38:23,947 [main] INFO logger_file - user entered required information into sign up form
+2022-11-18 12:38:29,072 [main] INFO logger_file - user clicked on Sign up Button
+2022-11-18 12:38:29,518 [main] INFO logger_file - Account was created
+2022-11-18 12:41:16,622 [main] INFO logger_file - React App is equal to React App
+2022-11-18 12:41:17,029 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 12:41:17,448 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-18 12:41:17,575 [main] INFO logger_file - user clicked on login button
+2022-11-18 12:41:17,934 [main] INFO logger_file - user logged in into account
+2022-11-18 12:41:23,184 [main] INFO logger_file - User click on Account option
+2022-11-18 12:41:23,334 [main] INFO logger_file - User click on Add a payment method link
+2022-11-18 12:41:23,998 [main] INFO logger_file - User fill Debit or credit card information
+2022-11-18 12:41:24,124 [main] INFO logger_file - User click on Add your card button
+2022-11-18 12:42:24,696 [main] INFO logger_file - React App is equal to React App
+2022-11-18 12:42:25,100 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 12:42:25,504 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-18 12:42:25,626 [main] INFO logger_file - user clicked on login button
+2022-11-18 12:42:25,935 [main] INFO logger_file - user logged in into account
+2022-11-18 12:42:31,143 [main] INFO logger_file - User click on Account option
+2022-11-18 12:42:31,619 [main] INFO logger_file - User enter below information
+2022-11-18 12:50:23,011 [main] INFO logger_file - React App is equal to React App
+2022-11-18 12:50:23,499 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 12:50:24,032 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-18 12:50:24,148 [main] INFO logger_file - user clicked on login button
+2022-11-18 12:50:24,410 [main] INFO logger_file - user logged in into account
+2022-11-18 12:50:29,648 [main] INFO logger_file - User click on Account option
+2022-11-18 12:50:29,797 [main] INFO logger_file - User click on Add a payment method link
+2022-11-18 12:50:30,476 [main] INFO logger_file - User fill Debit or credit card information
+2022-11-18 12:50:30,604 [main] INFO logger_file - User click on Add your card button
+2022-11-18 12:55:59,205 [main] INFO logger_file - React App is equal to React App
+2022-11-18 12:55:59,576 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 12:55:59,989 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-18 12:56:00,116 [main] INFO logger_file - user clicked on login button
+2022-11-18 12:56:00,422 [main] INFO logger_file - user logged in into account
+2022-11-18 12:56:05,647 [main] INFO logger_file - User click on Account option
+2022-11-18 12:56:05,824 [main] INFO logger_file - User click on Add a payment method link
+2022-11-18 12:56:06,556 [main] INFO logger_file - User fill Debit or credit card information
+2022-11-18 12:56:06,685 [main] INFO logger_file - User click on Add your card button
+2022-11-18 13:36:20,708 [main] INFO logger_file - React App is equal to React App
+2022-11-18 13:36:21,137 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 13:36:21,558 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-18 13:36:21,679 [main] INFO logger_file - user clicked on login button
+2022-11-18 13:36:22,021 [main] INFO logger_file - user logged in into account
+2022-11-18 13:36:27,251 [main] INFO logger_file - User click on Account option
+2022-11-18 13:37:01,716 [main] INFO logger_file - User click on Edit option of card section
+2022-11-18 13:37:02,386 [main] INFO logger_file - user edit information with below data
+2022-11-18 13:37:02,532 [main] INFO logger_file - user click on Update Your Card button
+2022-11-18 14:32:10,949 [main] INFO logger_file - React App is equal to React App
+2022-11-18 14:32:11,430 [main] INFO logger_file - user clicked on Sign In option
+2022-11-18 14:32:11,831 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-18 14:32:11,949 [main] INFO logger_file - user clicked on login button
+2022-11-18 14:32:12,319 [main] INFO logger_file - user logged in into account
+2022-11-18 14:32:17,562 [main] INFO logger_file - User click on Account option
+2022-11-18 14:32:17,734 [main] INFO logger_file - User click on card payment
+2022-11-18 14:32:17,879 [main] INFO logger_file - User click on remove option of card section
+2022-11-18 14:32:17,934 [main] INFO logger_file - payment details should be removed
+2022-11-21 09:45:22,288 [main] INFO logger_file - React App is equal to React App
+2022-11-21 09:45:22,679 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 09:45:23,224 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 09:45:23,442 [main] INFO logger_file - user clicked on login button
+2022-11-21 09:45:23,763 [main] INFO logger_file - user logged in into account
+2022-11-21 09:45:28,986 [main] INFO logger_file - User click on Account option
+2022-11-21 09:47:51,730 [main] INFO logger_file - React App is equal to React App
+2022-11-21 09:47:52,091 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 09:47:52,527 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 09:47:52,650 [main] INFO logger_file - user clicked on login button
+2022-11-21 09:47:52,908 [main] INFO logger_file - user logged in into account
+2022-11-21 09:47:58,143 [main] INFO logger_file - User click on Account option
+2022-11-21 09:47:58,293 [main] INFO logger_file - User click on Add a payment method link
+2022-11-21 09:47:58,963 [main] INFO logger_file - User fill Debit or credit card information
+2022-11-21 09:47:59,088 [main] INFO logger_file - User click on Add your card button
+2022-11-21 09:48:52,855 [main] INFO logger_file - React App is equal to React App
+2022-11-21 09:48:53,328 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 09:48:53,852 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 09:48:53,987 [main] INFO logger_file - user clicked on login button
+2022-11-21 09:48:54,238 [main] INFO logger_file - user logged in into account
+2022-11-21 09:48:59,501 [main] INFO logger_file - User click on Account option
+2022-11-21 09:50:54,415 [main] INFO logger_file - React App is equal to React App
+2022-11-21 09:50:54,813 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 09:50:55,289 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 09:50:55,462 [main] INFO logger_file - user clicked on login button
+2022-11-21 09:50:55,735 [main] INFO logger_file - user logged in into account
+2022-11-21 09:51:01,009 [main] INFO logger_file - User click on Account option
+2022-11-21 09:51:01,217 [main] INFO logger_file - User click on card payment
+2022-11-21 09:51:01,386 [main] INFO logger_file - User click on Edit option of card section
+2022-11-21 09:51:02,332 [main] INFO logger_file - user edit information with below data
+2022-11-21 09:51:02,522 [main] INFO logger_file - user click on Update Your Card button
+2022-11-21 17:57:01,335 [main] INFO logger_file - React App is equal to React App
+2022-11-21 17:57:01,792 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 17:57:02,271 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 17:57:02,390 [main] INFO logger_file - user clicked on login button
+2022-11-21 17:57:02,643 [main] INFO logger_file - user logged in into account
+2022-11-21 17:57:07,908 [main] INFO logger_file - User click on Account option
+2022-11-21 17:57:08,148 [main] INFO logger_file - User click on Add address option
+2022-11-21 17:57:09,410 [main] INFO logger_file - user fill new address form with below information
+2022-11-21 17:57:09,603 [main] INFO logger_file - User click Add Your Address button
+2022-11-21 18:23:21,773 [main] INFO logger_file - React App is equal to React App
+2022-11-21 18:23:22,169 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 18:23:22,610 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 18:23:22,736 [main] INFO logger_file - user clicked on login button
+2022-11-21 18:23:23,097 [main] INFO logger_file - user logged in into account
+2022-11-21 18:23:28,332 [main] INFO logger_file - User click on Account option
+2022-11-21 18:27:48,500 [main] INFO logger_file - React App is equal to React App
+2022-11-21 18:27:49,009 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 18:27:49,443 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 18:27:49,578 [main] INFO logger_file - user clicked on login button
+2022-11-21 18:27:49,831 [main] INFO logger_file - user logged in into account
+2022-11-21 18:27:55,063 [main] INFO logger_file - User click on Account option
+2022-11-21 18:27:55,320 [main] INFO logger_file - User click on edit address option
+2022-11-21 18:27:56,579 [main] INFO logger_file - user fill new address form with below information
+2022-11-21 18:30:10,628 [main] INFO logger_file - React App is equal to React App
+2022-11-21 18:30:10,937 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 18:30:11,423 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 18:30:11,544 [main] INFO logger_file - user clicked on login button
+2022-11-21 18:30:12,688 [main] INFO logger_file - user logged in into account
+2022-11-21 18:30:17,924 [main] INFO logger_file - User click on Account option
+2022-11-21 18:30:18,183 [main] INFO logger_file - User click on edit address option
+2022-11-21 18:30:19,480 [main] INFO logger_file - user fill new address form with below information
+2022-11-21 18:31:03,038 [main] INFO logger_file - React App is equal to React App
+2022-11-21 18:31:03,509 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 18:31:03,949 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 18:31:04,082 [main] INFO logger_file - user clicked on login button
+2022-11-21 18:31:04,392 [main] INFO logger_file - user logged in into account
+2022-11-21 18:31:09,648 [main] INFO logger_file - User click on Account option
+2022-11-21 18:31:09,882 [main] INFO logger_file - User click on Add address option
+2022-11-21 18:31:11,068 [main] INFO logger_file - user fill new address form with below information
+2022-11-21 18:31:11,205 [main] INFO logger_file - User click Add Your Address button
+2022-11-21 18:31:52,900 [main] INFO logger_file - React App is equal to React App
+2022-11-21 18:31:53,367 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 18:31:53,792 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 18:31:53,912 [main] INFO logger_file - user clicked on login button
+2022-11-21 18:31:54,220 [main] INFO logger_file - user logged in into account
+2022-11-21 18:31:59,472 [main] INFO logger_file - User click on Account option
+2022-11-21 18:32:58,689 [main] INFO logger_file - React App is equal to React App
+2022-11-21 18:32:58,897 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 18:32:59,303 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 18:32:59,429 [main] INFO logger_file - user clicked on login button
+2022-11-21 18:32:59,676 [main] INFO logger_file - user logged in into account
+2022-11-21 18:33:04,924 [main] INFO logger_file - User click on Account option
+2022-11-21 18:33:05,124 [main] INFO logger_file - User click on Add address option
+2022-11-21 18:33:06,358 [main] INFO logger_file - user fill new address form with below information
+2022-11-21 18:33:06,488 [main] INFO logger_file - User click Add Your Address button
+2022-11-21 18:34:48,399 [main] INFO logger_file - React App is equal to React App
+2022-11-21 18:34:48,798 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 18:34:49,251 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 18:34:49,382 [main] INFO logger_file - user clicked on login button
+2022-11-21 18:34:49,636 [main] INFO logger_file - user logged in into account
+2022-11-21 18:34:54,901 [main] INFO logger_file - User click on Account option
+2022-11-21 18:34:55,156 [main] INFO logger_file - User click on edit address option
+2022-11-21 18:34:56,539 [main] INFO logger_file - user fill new address form with below information
+2022-11-21 18:38:51,549 [main] INFO logger_file - React App is equal to React App
+2022-11-21 18:38:52,024 [main] INFO logger_file - user clicked on Sign In option
+2022-11-21 18:38:52,464 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-21 18:38:52,592 [main] INFO logger_file - user clicked on login button
+2022-11-21 18:38:52,866 [main] INFO logger_file - user logged in into account
+2022-11-21 18:38:58,114 [main] INFO logger_file - User click on Account option
+2022-11-29 12:36:23,210 [main] INFO logger_file - React App is equal to React App
+2022-11-29 12:36:23,596 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 12:36:24,352 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-29 12:36:24,608 [main] INFO logger_file - user clicked on login button
+2022-11-29 12:36:25,080 [main] INFO logger_file - user logged in into account
+2022-11-29 12:36:30,389 [main] INFO logger_file - User click on Account option
+2022-11-29 15:44:05,918 [main] INFO logger_file - React App is equal to React App
+2022-11-29 15:44:06,398 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 15:44:07,009 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-29 15:44:07,214 [main] INFO logger_file - user clicked on login button
+2022-11-29 15:44:09,649 [main] INFO logger_file - user logged in into account
+2022-11-29 15:44:14,889 [main] INFO logger_file - User click on Account option
+2022-11-29 15:44:15,190 [main] INFO logger_file - User click on edit address option
+2022-11-29 15:44:16,716 [main] INFO logger_file - user fill new address form with below information
+2022-11-29 16:24:09,997 [main] INFO logger_file - React App is equal to React App
+2022-11-29 16:24:10,549 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 16:24:11,065 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-29 16:24:11,249 [main] INFO logger_file - user clicked on login button
+2022-11-29 16:24:11,606 [main] INFO logger_file - user logged in into account
+2022-11-29 16:24:16,850 [main] INFO logger_file - User click on Account option
+2022-11-29 16:24:17,199 [main] INFO logger_file - user clicked on Edit button
+2022-11-29 16:24:18,915 [main] INFO logger_file - user fill new address form with below information
+2022-11-29 16:24:19,080 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-29 16:26:50,691 [main] INFO logger_file - React App is equal to React App
+2022-11-29 16:26:51,132 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 16:26:51,726 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-29 16:26:51,880 [main] INFO logger_file - user clicked on login button
+2022-11-29 16:26:52,166 [main] INFO logger_file - user logged in into account
+2022-11-29 16:26:57,437 [main] INFO logger_file - User click on Account option
+2022-11-29 16:26:57,763 [main] INFO logger_file - user clicked on Edit button
+2022-11-29 16:26:59,284 [main] INFO logger_file - user fill new address form with below information
+2022-11-29 16:26:59,467 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-29 16:49:23,779 [main] INFO logger_file - React App is equal to React App
+2022-11-29 16:49:24,263 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 16:49:24,823 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-29 16:49:24,969 [main] INFO logger_file - user clicked on login button
+2022-11-29 16:49:25,246 [main] INFO logger_file - user logged in into account
+2022-11-29 16:49:30,494 [main] INFO logger_file - User click on Account option
+2022-11-29 16:49:30,798 [main] INFO logger_file - user clicked on Edit button
+2022-11-29 16:49:32,279 [main] INFO logger_file - user fill new address form with below information
+2022-11-29 16:49:32,508 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-29 16:54:38,631 [main] INFO logger_file - React App is equal to React App
+2022-11-29 16:54:38,915 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 16:54:39,446 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-29 16:54:39,594 [main] INFO logger_file - user clicked on login button
+2022-11-29 16:54:39,849 [main] INFO logger_file - user logged in into account
+2022-11-29 16:54:45,116 [main] INFO logger_file - User click on Account option
+2022-11-29 16:54:45,475 [main] INFO logger_file - user clicked on Edit button
+2022-11-29 16:54:47,039 [main] INFO logger_file - user fill new address form with below information
+2022-11-29 16:54:47,331 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-29 17:02:08,892 [main] INFO logger_file - React App is equal to React App
+2022-11-29 17:02:09,350 [main] INFO logger_file - user clicked on Sign In option
+2022-11-29 17:02:09,953 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-29 17:02:10,087 [main] INFO logger_file - user clicked on login button
+2022-11-29 17:02:10,399 [main] INFO logger_file - user logged in into account
+2022-11-29 17:02:15,700 [main] INFO logger_file - User click on Account option
+2022-11-29 17:02:16,058 [main] INFO logger_file - user clicked on Edit button
+2022-11-29 17:02:17,679 [main] INFO logger_file - user fill new address form with below information
+2022-11-29 17:02:17,881 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-30 22:24:21,601 [main] INFO logger_file - React App is equal to React App
+2022-11-30 22:24:22,085 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 22:24:22,588 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 22:24:22,726 [main] INFO logger_file - user clicked on login button
+2022-11-30 22:24:23,070 [main] INFO logger_file - user logged in into account
+2022-11-30 22:24:28,363 [main] INFO logger_file - User click on Account option
+2022-11-30 22:24:28,596 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 22:24:30,274 [main] INFO logger_file - user fill new address form with below information
+2022-11-30 22:24:30,470 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-30 22:25:20,388 [main] INFO logger_file - React App is equal to React App
+2022-11-30 22:25:20,639 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 22:25:21,296 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 22:25:21,442 [main] INFO logger_file - user clicked on login button
+2022-11-30 22:25:21,754 [main] INFO logger_file - user logged in into account
+2022-11-30 22:25:27,001 [main] INFO logger_file - User click on Account option
+2022-11-30 22:25:27,307 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 22:25:28,602 [main] INFO logger_file - user fill new address form with below information
+2022-11-30 22:25:28,740 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-30 22:29:34,491 [main] INFO logger_file - React App is equal to React App
+2022-11-30 22:29:34,889 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 22:29:35,513 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 22:29:35,650 [main] INFO logger_file - user clicked on login button
+2022-11-30 22:29:35,908 [main] INFO logger_file - user logged in into account
+2022-11-30 22:29:41,145 [main] INFO logger_file - User click on Account option
+2022-11-30 22:29:41,422 [main] INFO logger_file - User click on Add address option
+2022-11-30 22:29:42,748 [main] INFO logger_file - user fill new address form with below information
+2022-11-30 22:29:42,928 [main] INFO logger_file - User click Add Your Address button
+2022-11-30 22:30:26,768 [main] INFO logger_file - React App is equal to React App
+2022-11-30 22:30:27,165 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 22:30:27,632 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 22:30:27,762 [main] INFO logger_file - user clicked on login button
+2022-11-30 22:30:28,064 [main] INFO logger_file - user logged in into account
+2022-11-30 22:30:33,331 [main] INFO logger_file - User click on Account option
+2022-11-30 22:30:33,565 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 22:30:34,984 [main] INFO logger_file - user fill new address form with below information
+2022-11-30 22:30:35,136 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-30 22:43:22,040 [main] INFO logger_file - React App is equal to React App
+2022-11-30 22:43:22,502 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 22:43:23,020 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 22:43:23,173 [main] INFO logger_file - user clicked on login button
+2022-11-30 22:43:23,501 [main] INFO logger_file - user logged in into account
+2022-11-30 22:43:28,717 [main] INFO logger_file - User click on Account option
+2022-11-30 22:43:28,963 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 22:43:30,474 [main] INFO logger_file - user fill new address form with below information
+2022-11-30 22:43:30,622 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-30 22:45:02,896 [main] INFO logger_file - React App is equal to React App
+2022-11-30 22:45:03,160 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 22:45:03,610 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 22:45:03,757 [main] INFO logger_file - user clicked on login button
+2022-11-30 22:45:04,033 [main] INFO logger_file - user logged in into account
+2022-11-30 22:45:09,295 [main] INFO logger_file - User click on Account option
+2022-11-30 22:45:09,521 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 22:45:11,009 [main] INFO logger_file - user fill new address form with below information
+2022-11-30 22:45:11,193 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-30 22:50:41,692 [main] INFO logger_file - React App is equal to React App
+2022-11-30 22:50:41,948 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 22:50:42,421 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 22:50:42,558 [main] INFO logger_file - user clicked on login button
+2022-11-30 22:50:42,835 [main] INFO logger_file - user logged in into account
+2022-11-30 22:50:48,135 [main] INFO logger_file - User click on Account option
+2022-11-30 22:50:48,355 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 22:50:50,124 [main] INFO logger_file - user fill new address form with below information
+2022-11-30 22:50:50,280 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-30 22:52:51,718 [main] INFO logger_file - React App is equal to React App
+2022-11-30 22:52:52,099 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 22:52:52,797 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 22:52:53,030 [main] INFO logger_file - user clicked on login button
+2022-11-30 22:52:53,331 [main] INFO logger_file - user logged in into account
+2022-11-30 22:52:58,601 [main] INFO logger_file - User click on Account option
+2022-11-30 22:52:58,896 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 22:53:00,577 [main] INFO logger_file - user fill new address form with below information
+2022-11-30 22:53:00,759 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-30 22:56:45,662 [main] INFO logger_file - React App is equal to React App
+2022-11-30 22:56:46,166 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 22:56:46,919 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 22:56:47,166 [main] INFO logger_file - user clicked on login button
+2022-11-30 22:56:47,474 [main] INFO logger_file - user logged in into account
+2022-11-30 22:56:52,768 [main] INFO logger_file - User click on Account option
+2022-11-30 22:56:53,095 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 22:56:54,794 [main] INFO logger_file - user fill new address form with below information
+2022-11-30 22:56:54,974 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-30 22:58:22,515 [main] INFO logger_file - React App is equal to React App
+2022-11-30 22:58:22,822 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 22:58:23,408 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 22:58:23,576 [main] INFO logger_file - user clicked on login button
+2022-11-30 22:58:23,835 [main] INFO logger_file - user logged in into account
+2022-11-30 22:59:32,164 [main] INFO logger_file - React App is equal to React App
+2022-11-30 22:59:32,620 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 22:59:33,374 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 22:59:33,529 [main] INFO logger_file - user clicked on login button
+2022-11-30 22:59:33,828 [main] INFO logger_file - user logged in into account
+2022-11-30 22:59:39,212 [main] INFO logger_file - User click on Account option
+2022-11-30 22:59:39,440 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 23:08:10,903 [main] INFO logger_file - React App is equal to React App
+2022-11-30 23:08:11,501 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 23:08:11,976 [main] INFO logger_file - user entered email noorullahyousefi@tekschool.us and password Tek@12345
+2022-11-30 23:08:12,107 [main] INFO logger_file - user clicked on login button
+2022-11-30 23:08:12,352 [main] INFO logger_file - user logged in into account
+2022-11-30 23:08:17,597 [main] INFO logger_file - User click on Account option
+2022-11-30 23:08:17,862 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 23:08:19,540 [main] INFO logger_file - user fill new address form with below information
+2022-11-30 23:08:19,692 [main] INFO logger_file - User clicked on Update Your Address
+2022-11-30 23:35:55,619 [main] INFO logger_file - React App is equal to React App
+2022-11-30 23:35:56,050 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 23:35:56,537 [main] INFO logger_file - user entered email  noorullahyousefi@tekschool.us  and password Tek@12345
+2022-11-30 23:35:56,660 [main] INFO logger_file - user clicked on login button
+2022-11-30 23:35:56,923 [main] INFO logger_file - user logged in into account
+2022-11-30 23:36:02,140 [main] INFO logger_file - user successfylly clicked on Account option
+2022-11-30 23:36:07,320 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 23:38:08,525 [main] INFO logger_file - React App is equal to React App
+2022-11-30 23:38:08,771 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 23:38:09,248 [main] INFO logger_file - user entered email  noorullahyousefi@tekschool.us  and password Tek@12345
+2022-11-30 23:38:09,372 [main] INFO logger_file - user clicked on login button
+2022-11-30 23:38:09,603 [main] INFO logger_file - user logged in into account
+2022-11-30 23:38:14,842 [main] INFO logger_file - user successfylly clicked on Account option
+2022-11-30 23:38:20,021 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 23:40:10,408 [main] INFO logger_file - React App is equal to React App
+2022-11-30 23:40:10,662 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 23:40:11,117 [main] INFO logger_file - user entered email  noorullahyousefi@tekschool.us  and password Tek@12345
+2022-11-30 23:40:11,265 [main] INFO logger_file - user clicked on login button
+2022-11-30 23:40:11,753 [main] INFO logger_file - user logged in into account
+2022-11-30 23:40:17,004 [main] INFO logger_file - user successfylly clicked on Account option
+2022-11-30 23:40:22,206 [main] INFO logger_file - user clicked on Edit button
+2022-11-30 23:44:30,997 [main] INFO logger_file - React App is equal to React App
+2022-11-30 23:44:31,232 [main] INFO logger_file - user clicked on Sign In option
+2022-11-30 23:44:31,685 [main] INFO logger_file - user entered email  noorullahyousefi@tekschool.us  and password Tek@12345
+2022-11-30 23:44:31,809 [main] INFO logger_file - user clicked on login button
+2022-11-30 23:44:32,081 [main] INFO logger_file - user logged in into account
+2022-11-30 23:44:37,331 [main] INFO logger_file - user successfylly clicked on Account option
+2022-11-30 23:44:42,498 [main] INFO logger_file - userClickedInAddAddressOption
+2022-12-01 09:46:14,272 [main] INFO logger_file - React App is equal to React App
+2022-12-01 09:46:14,634 [main] INFO logger_file - User click on All section
+2022-12-01 09:46:14,834 [main] INFO logger_file - below_options_are_present_in_Shop_by_Department_sidebar
+2022-12-01 09:47:06,422 [main] INFO logger_file - React App is equal to React App
+2022-12-01 09:47:06,880 [main] INFO logger_file - User click on All section
+2022-12-01 09:47:07,099 [main] INFO logger_file - below_options_are_present_in_Shop_by_Department_sidebar
+2022-12-01 09:47:50,704 [main] INFO logger_file - React App is equal to React App
+2022-12-01 09:47:51,140 [main] INFO logger_file - User click on All section
+2022-12-01 09:47:51,390 [main] INFO logger_file - below_options_are_present_in_Shop_by_Department_sidebar
+2022-12-01 09:48:44,442 [main] INFO logger_file - React App is equal to React App
+2022-12-01 09:48:44,793 [main] INFO logger_file - User click on All section
+2022-12-01 09:48:44,798 [main] INFO logger_file - below_options_are_present_in_Shop_by_Department_sidebar
+2022-12-01 09:53:25,389 [main] INFO logger_file - React App is equal to React App
+2022-12-01 09:53:25,668 [main] INFO logger_file - User click on All section
+2022-12-01 09:56:14,010 [main] INFO logger_file - React App is equal to React App
+2022-12-01 09:56:14,328 [main] INFO logger_file - User click on All section
+2022-12-01 09:57:09,368 [main] INFO logger_file - React App is equal to React App
+2022-12-01 09:57:09,569 [main] INFO logger_file - User click on All section
+2022-12-01 09:57:09,576 [main] INFO logger_file - below_options_are_present_in_Shop_by_Department_sidebar
+2022-12-01 09:58:46,314 [main] INFO logger_file - React App is equal to React App
+2022-12-01 09:58:46,692 [main] INFO logger_file - User click on All section
+2022-12-01 09:59:48,426 [main] INFO logger_file - React App is equal to React App
+2022-12-01 09:59:48,867 [main] INFO logger_file - User click on All section
+2022-12-01 09:59:48,881 [main] INFO logger_file - below_options_are_present_in_Shop_by_Department_sidebar
+2022-12-01 10:02:45,325 [main] INFO logger_file - React App is equal to React App
+2022-12-01 10:02:45,509 [main] INFO logger_file - User click on All section
+2022-12-01 10:02:45,527 [main] INFO logger_file - below_options_are_present_in_Shop_by_Department_sidebar

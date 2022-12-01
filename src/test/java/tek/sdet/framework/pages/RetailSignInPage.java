@@ -11,6 +11,9 @@ public class RetailSignInPage extends BaseSetup {
 		PageFactory.initElements(getDriver(), this);
 	}
 	
+	@FindBy (id="accountLink")
+	public WebElement account;
+	
 	@FindBy(id="signinLink")
 	public WebElement signIn;
 	

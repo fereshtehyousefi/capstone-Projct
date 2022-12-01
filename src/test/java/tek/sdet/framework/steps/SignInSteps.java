@@ -19,7 +19,7 @@ public class SignInSteps extends CommonUtility {
 	
 	@When("User click on Sign in option")
 	public void userClickOnSignInOption() {
-		click(factory.homePage().signIn);
+		click(factory.signInPage().signIn);
 		logger.info("user clicked on Sign In option");
 	}
 	
@@ -41,7 +41,7 @@ public class SignInSteps extends CommonUtility {
 	
 	@Then("User should be logged in into Account")
 	public void userShouldBeLoggedInIntoAccount() {
-		Assert.assertTrue(isElementDisplayed(factory.homePage().account));
+		Assert.assertTrue(isElementDisplayed(factory.signInPage().account));
 		logger.info("user logged in into account");
 		slowDown();
 		
@@ -80,7 +80,7 @@ public class SignInSteps extends CommonUtility {
 	@Then("User should be logged into account page")
 	public void userShouldBeLoggedIntoAccountPage() {
 		Assert.assertTrue(isElementDisplayed(factory.signInPage().profileImage));
-		Assert.assertTrue(isElementDisplayed(factory.homePage().account));
+		Assert.assertTrue(isElementDisplayed(factory.signInPage().account));
 		logger.info("Account was created");
 		slowDown();
 	}
