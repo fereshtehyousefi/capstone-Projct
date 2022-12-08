@@ -47,6 +47,8 @@ public class SignInSteps extends CommonUtility {
 		
 	}
 	
+	
+//	@CreateAccount
 	@And("User click on Create New Account button")
 	public void userClickOnCreateNewAccountButton() {
 		click(factory.signInPage().newAccountButton);

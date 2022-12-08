@@ -15,47 +15,39 @@ public class RetailAccountPage extends BaseSetup {
 	
 
 	
-	
 	@FindBy(id="accountLink")
-	public WebElement AccountOption;
+	public WebElement account;
 	
 	
-	@FindBy(id = "nameInput")
-	public WebElement name;
+	@FindBy(id="nameInput")
+    public WebElement NameField;
+    
+    @FindBy(id="personalPhoneInput")
+    public WebElement PhoneField;
+    
+    @FindBy(id="personalUpdateBtn")
+    public WebElement Updatebtn;
+    
+    @FindBy(xpath="//div[text()=\"Personal Information Updated Successfully\"]")
+    public WebElement Message;
+    
+    @FindBy(id="previousPasswordInput")
+    public WebElement PrevPassInput;
+    
+    @FindBy(id="newPasswordInput")
+    public WebElement NewPassInput;
+    
+    @FindBy(id="confirmPasswordInput")
+    public WebElement ConfirmPassInput;
+    
+    @FindBy(id="credentialsSubmitBtn")
+    public WebElement ChangePassBtn;
+    
+    @FindBy(xpath="//div[text()=\"Password Updated Successfully\"]")
+    public WebElement PassUpdatedSuccessfully;
 	
-	
-	
-	@FindBy(id = "phoneNumberInput")
-	public WebElement phone;
-	
-	
-	
-	@FindBy(id = "personalUpdateBtn")
-	public WebElement UpdateButton; 
-	
-	
-	@FindBy(xpath = "//h1[@class='account__information-username']")
-	public WebElement userNameInformation; 
-	
-	
-	@FindBy(id = "previousPasswordInput")
-	public WebElement previousPasswordInput; 
-	
-	
-	@FindBy(id = "newPasswordInput")
-	public WebElement newPasswordInput; 
-	
-	
-	@FindBy(id = "confirmPasswordInput")
-	public WebElement confirmPasswordInput; 
-	
-	@FindBy(id = "credentialsSubmitBtn")
-	public WebElement credentialsSubmitBtn; 
-	
-	
-	
-	@FindBy(xpath = "//div[@text='Password Updated Successfully']")
-	public WebElement PasswordUpdatedSuccessfully; 
+//    @AddPaymentmethod
+//    Scenario: Verify User can add a payment method
 	
 	@FindBy(xpath="//p[@class='text-sm text-blue-700 hover:underline hover:text-red-700']")
 	public WebElement AddaPaymentMethod ;
@@ -79,10 +71,10 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(id="paymentSubmitBtn")
 	public WebElement paymentSubmitBtn ;
 	
-	@FindBy(xpath="//div[text()=\"Payment Method updated Successfully\"]")
+	@FindBy(xpath="//div[text()=\"Payment Method added sucessfully\"]")
 	public WebElement PaymentMethodupdatedSuccessfully;
 
-
+  
 	
 	
 	
@@ -91,7 +83,8 @@ public class RetailAccountPage extends BaseSetup {
 	@FindBy(xpath="//*[@class='text-blue-800 cursor-pointer hover:underline']")
 	public WebElement EditOption ;
 	
-
+	@FindBy(xpath="//div[text()=\"Payment Method updated Successfully\"]")
+    public WebElement paymentMethodupdatedSuccessfully;
 
 	
 	
