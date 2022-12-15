@@ -1,9 +1,10 @@
+@CompleteTest
 Feature: Retail Order Page
 
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'test12@tekschool.us' and password 'Tak@34456'
+    And User enter email 'test12@tekschool.us' and password 'Tak@33456'
     And User click on login button
     And User should be logged in into Account
     And User click on Orders section

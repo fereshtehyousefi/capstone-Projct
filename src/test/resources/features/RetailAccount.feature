@@ -1,3 +1,4 @@
+@CompleteTest
 Feature: Retail Account Page
   
   
@@ -20,7 +21,7 @@ Feature: Retail Account Page
   Scenario: Verify User can Update password   
   And User enter below information      
   | previousPassword | newPassword | confirmPassword |      
-  | Tak@33456      | Tak@34456 | Tak@34456     |   
+  | Tak@34456      | Tak@33456 | Tak@33456     |   
   And User click on Change Password button    
   Then a message should be displayed Password Updated Successfully
 
